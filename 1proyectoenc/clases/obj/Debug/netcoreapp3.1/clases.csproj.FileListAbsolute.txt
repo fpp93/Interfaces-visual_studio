@@ -1,0 +1,13 @@
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\bin\Debug\netcoreapp3.1\clases.exe
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\bin\Debug\netcoreapp3.1\clases.deps.json
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\bin\Debug\netcoreapp3.1\clases.runtimeconfig.json
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\bin\Debug\netcoreapp3.1\clases.runtimeconfig.dev.json
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\bin\Debug\netcoreapp3.1\clases.dll
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\bin\Debug\netcoreapp3.1\clases.pdb
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\obj\Debug\netcoreapp3.1\clases.csprojAssemblyReference.cache
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\obj\Debug\netcoreapp3.1\clases.AssemblyInfoInputs.cache
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\obj\Debug\netcoreapp3.1\clases.AssemblyInfo.cs
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\obj\Debug\netcoreapp3.1\clases.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\obj\Debug\netcoreapp3.1\clases.dll
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\obj\Debug\netcoreapp3.1\clases.pdb
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\clases\obj\Debug\netcoreapp3.1\clases.genruntimeconfig.cache

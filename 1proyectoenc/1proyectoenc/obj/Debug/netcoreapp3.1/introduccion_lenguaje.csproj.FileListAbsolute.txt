@@ -1,0 +1,13 @@
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\bin\Debug\netcoreapp3.1\introduccion_lenguaje.exe
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\bin\Debug\netcoreapp3.1\introduccion_lenguaje.deps.json
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\bin\Debug\netcoreapp3.1\introduccion_lenguaje.runtimeconfig.json
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\bin\Debug\netcoreapp3.1\introduccion_lenguaje.runtimeconfig.dev.json
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\bin\Debug\netcoreapp3.1\introduccion_lenguaje.dll
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\bin\Debug\netcoreapp3.1\introduccion_lenguaje.pdb
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\obj\Debug\netcoreapp3.1\introduccion_lenguaje.csprojAssemblyReference.cache
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\obj\Debug\netcoreapp3.1\introduccion_lenguaje.AssemblyInfoInputs.cache
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\obj\Debug\netcoreapp3.1\introduccion_lenguaje.AssemblyInfo.cs
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\obj\Debug\netcoreapp3.1\introduccion_lenguaje.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\obj\Debug\netcoreapp3.1\introduccion_lenguaje.dll
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\obj\Debug\netcoreapp3.1\introduccion_lenguaje.pdb
+C:\Users\ThinkPad T460\source\repos\1proyectoenc\1proyectoenc\obj\Debug\netcoreapp3.1\introduccion_lenguaje.genruntimeconfig.cache

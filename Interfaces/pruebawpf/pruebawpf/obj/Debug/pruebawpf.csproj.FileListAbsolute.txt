@@ -1,0 +1,17 @@
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\bin\Debug\pruebawpf.exe.config
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\bin\Debug\pruebawpf.exe
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\bin\Debug\pruebawpf.pdb
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\pruebawpf.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\MainWindow.g.cs
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\Window1.g.cs
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\App.g.cs
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\pruebawpf_MarkupCompile.cache
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\pruebawpf_MarkupCompile.lref
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\MainWindow.baml
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\Window1.baml
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\pruebawpf.g.resources
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\pruebawpf.Properties.Resources.resources
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\pruebawpf.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\pruebawpf.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\pruebawpf.exe
+C:\Users\Francisco\source\repos\Interfaces\pruebawpf\pruebawpf\obj\Debug\pruebawpf.pdb

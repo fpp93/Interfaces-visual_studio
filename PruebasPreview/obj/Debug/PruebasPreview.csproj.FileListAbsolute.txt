@@ -1,0 +1,5 @@
+C:\Users\Francisco\source\repos\PruebasPreview\obj\Debug\PruebasPreview.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\PruebasPreview\obj\Debug\MainWindow.g.cs
+C:\Users\Francisco\source\repos\PruebasPreview\obj\Debug\App.g.cs
+C:\Users\Francisco\source\repos\PruebasPreview\obj\Debug\PruebasPreview_MarkupCompile.cache
+C:\Users\Francisco\source\repos\PruebasPreview\obj\Debug\PruebasPreview_MarkupCompile.lref

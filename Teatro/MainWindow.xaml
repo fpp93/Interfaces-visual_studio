@@ -1,0 +1,42 @@
+﻿<Window x:Class="Teatro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Teatro"
+        mc:Ignorable="d"
+        Title="Entradas.FESAC" Height="515.882" Width="917.647" Loaded="Window_Loaded" Icon="theatermasks_teatr_3602.png">
+    <Canvas Background="#FF2BD7EF">
+        <DockPanel Height="487" LastChildFill="False" VerticalAlignment="Top" Canvas.Left="10" Width="891">
+            <DockPanel.Background>
+                <ImageBrush ImageSource="fondo_teatro.jpg"/>
+            </DockPanel.Background>
+            <Button x:Name="Evento1" Height="336" VerticalAlignment="Top" Width="180" Click="Evento1_Click" Margin="0,96,0,0">
+                <Image Source="/Imagenes/reyleon.jpg" Height="326" Width="180" Stretch="Fill" />
+
+            </Button>
+            <Button x:Name="Evento2" Height="336" VerticalAlignment="Top" Width="180" Click="Evento2_Click" Margin="0,96,0,0">
+                <Image Source="/Imagenes/berto.jpg" Stretch="Fill" Height="326" Width="170" />
+
+            </Button>
+            <Button x:Name="Evento3" Height="336" VerticalAlignment="Bottom" Width="180" Click="Evento3_Click" Margin="0,0,0,54.667">
+                <Image Source="/Imagenes/humor.jpg" Stretch="Fill" Height="328" />
+
+            </Button>
+            <Button x:Name="Evento4" Height="336" VerticalAlignment="Top" Width="185" Click="Evento4_Click" Margin="0,96,0,0">
+                <Image Source="/Imagenes/macbeth.jpg" Stretch="Fill" Height="326" Width="185" />
+
+            </Button>
+            <Button x:Name="Evento5" Height="336" VerticalAlignment="Top" Width="165" Click="Evento5_Click" Margin="0,96,0,0">
+                <Image Source="/Imagenes/romeojulieta.jpg" Stretch="Fill" Height="326" Width="165" />
+
+            </Button>
+
+
+        </DockPanel>
+        <Label Canvas.Left="100" Canvas.Top="30">
+            <Label Content="LISTA DE EVENTOS DISPONIBLES" Height="49" Width="456" FontSize="22" FontFamily="MV Boli" FontWeight="Bold" Background="#FFE55B00"/>
+        </Label>
+    </Canvas>
+
+</Window>

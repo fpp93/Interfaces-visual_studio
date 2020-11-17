@@ -1,0 +1,14 @@
+C:\Users\Francisco\source\repos\Exameninterfaces\bin\Debug\Exameninterfaces.exe.config
+C:\Users\Francisco\source\repos\Exameninterfaces\bin\Debug\Exameninterfaces.exe
+C:\Users\Francisco\source\repos\Exameninterfaces\bin\Debug\Exameninterfaces.pdb
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.Alta.resources
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.Baja.resources
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.Form1.resources
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.Properties.Resources.resources
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.exe
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.pdb
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.Sacar.resources
+C:\Users\Francisco\source\repos\Exameninterfaces\obj\Debug\Exameninterfaces.Devolver.resources

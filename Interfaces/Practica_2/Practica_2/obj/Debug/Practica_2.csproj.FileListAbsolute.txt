@@ -1,0 +1,17 @@
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\bin\Debug\Practica_2.exe.config
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\bin\Debug\Practica_2.exe
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\bin\Debug\Practica_2.pdb
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.Form1.resources
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.Properties.Resources.resources
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.exe
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.pdb
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\bin\Debug\Google.Protobuf.dll
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\bin\Debug\MySql.Data.DLL
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\bin\Debug\Renci.SshNet.dll
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.Form2.resources
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.csproj.CopyComplete
+C:\Users\Francisco\source\repos\Interfaces\Practica_2\Practica_2\obj\Debug\Practica_2.Form3.resources

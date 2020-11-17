@@ -1,0 +1,14 @@
+﻿<Window x:Class="PruebaWPF.WPF5xaml"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PruebaWPF"
+        mc:Ignorable="d"
+        Title="WPF5xaml" Height="450" Width="800">
+    <Grid Margin="0,0,130.333,-0.333">
+        <Label Content="Personas Registradas:" HorizontalAlignment="Left" Margin="38,66,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lst_1" HorizontalAlignment="Left" Height="258" Margin="38,97,0,0" VerticalAlignment="Top" Width="457" SelectionChanged="lst_1_SelectionChanged"/>
+
+    </Grid>
+</Window>

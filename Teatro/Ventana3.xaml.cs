@@ -151,6 +151,11 @@ namespace Teatro
             v4.Show();
             
         }
-        
+
+        private void btn_informe_Click(object sender, RoutedEventArgs e)
+        {
+            Informe i = new Informe(salas);
+            i.Show();
+        }
     }
 }

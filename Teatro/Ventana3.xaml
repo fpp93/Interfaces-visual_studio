@@ -14,8 +14,8 @@
     </Window.Background>
     <Grid x:Name="Grid1">
         <Grid x:Name="grid2" Margin="80,180,83.333,9.667">
-          
-            
+
+
         </Grid>
 
         <Label Content="ESCENARIO" HorizontalAlignment="Left" Margin="308,39,0,0" VerticalAlignment="Top" FontSize="36" Height="58" Width="196" RenderTransformOrigin="0.536,0.138">
@@ -32,6 +32,14 @@
         <Label x:Name="label_ocupado" Content="Ocupado" HorizontalAlignment="Left" Margin="300,107,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.561,0.308" FontSize="16"/>
         <Rectangle Fill="Red" HorizontalAlignment="Left" Height="13" Margin="380,117,0,0" Stroke="Black" VerticalAlignment="Top" Width="19" RenderTransformOrigin="-2.19,0.392"/>
         <Rectangle Fill="Yellow" HorizontalAlignment="Left" Height="13" Margin="380,146,0,0" Stroke="Black" VerticalAlignment="Top" Width="19" RenderTransformOrigin="-2.19,0.392"/>
+        <Button x:Name="btn_informe" Content="Finalizar compra" HorizontalAlignment="Left" Margin="425,128,0,0" VerticalAlignment="Top" Width="101" Height="25" FontFamily="Microsoft Sans Serif" Click="btn_informe_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FF80D8E1" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
 
     </Grid>
 </Window>

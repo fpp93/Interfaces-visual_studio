@@ -32,7 +32,7 @@ namespace Practica_2
 
         public String toString()
         {
-            return "ID: " + ID + " \nNombre: " + nombre + " \nAño: " + año;
+            return codigo+":"+nombre;
         }
     }
 }

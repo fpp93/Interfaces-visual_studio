@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YVic+SBR584gAbxierEQvlyU5Nop/kmx8WzhpGhBFG2cIL8cxBOk1HnxyHQBDsDnFKNMOhcePr3c5SkNzcpd2Q==",
+  "dgSpecHash": "rHZZSu/okU3gfoVVBiFweEk0cHdGTg/8VSFyihwE0wo+hMlFPwWsDzu8ay84r4qHsMwXrBOmNC0N9jliInQDHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Francisco\\source\\repos\\Tetris\\Tetris.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.9\\microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

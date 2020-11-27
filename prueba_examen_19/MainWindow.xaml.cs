@@ -43,7 +43,7 @@ namespace prueba_examen_19
             {
                 if (txt_codigo_baja.Text.Equals(i.Codigo)&& i.Unidades> Convert.ToInt32(txt_unidades_baja.Text))
                 {
-                    i.Unidades = i.Unidades + Convert.ToInt32(txt_unidades_baja.Text);
+                    i.Unidades = i.Unidades - Convert.ToInt32(txt_unidades_baja.Text);
                     MessageBox.Show("Unidades eliminadas del stock");
                 }
                 else

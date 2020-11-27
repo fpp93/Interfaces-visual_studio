@@ -24,7 +24,7 @@ namespace Teatro
             InitializeComponent();
         }
 
-        Asientos asientos;
+        
         Sala salas;
         Button boton;
 

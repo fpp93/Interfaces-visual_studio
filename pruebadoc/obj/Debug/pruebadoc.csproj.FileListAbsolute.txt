@@ -1,0 +1,15 @@
+C:\Users\Francisco\source\repos\pruebadoc\bin\Debug\pruebadoc.exe.config
+C:\Users\Francisco\source\repos\pruebadoc\bin\Debug\pruebadoc.exe
+C:\Users\Francisco\source\repos\pruebadoc\bin\Debug\pruebadoc.pdb
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\pruebadoc.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\MainWindow.g.cs
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\App.g.cs
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\pruebadoc_MarkupCompile.cache
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\pruebadoc_MarkupCompile.lref
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\MainWindow.baml
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\pruebadoc.g.resources
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\pruebadoc.Properties.Resources.resources
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\pruebadoc.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\pruebadoc.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\pruebadoc.exe
+C:\Users\Francisco\source\repos\pruebadoc\obj\Debug\pruebadoc.pdb

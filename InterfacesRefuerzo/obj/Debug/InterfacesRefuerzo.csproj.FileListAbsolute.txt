@@ -1,0 +1,11 @@
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\bin\Debug\InterfacesRefuerzo.exe.config
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\bin\Debug\InterfacesRefuerzo.exe
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\bin\Debug\InterfacesRefuerzo.pdb
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\obj\Debug\InterfacesRefuerzo.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\obj\Debug\InterfacesRefuerzo.Form1.resources
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\obj\Debug\InterfacesRefuerzo.Properties.Resources.resources
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\obj\Debug\InterfacesRefuerzo.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\obj\Debug\InterfacesRefuerzo.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\obj\Debug\InterfacesRefuerzo.exe
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\obj\Debug\InterfacesRefuerzo.pdb
+C:\Users\Francisco\source\repos\InterfacesRefuerzo\obj\Debug\InterfacesRefuerzo.Form2.resources

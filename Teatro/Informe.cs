@@ -55,12 +55,12 @@ namespace Teatro
             var qrCode = qrEncoder.Encode(texto_qr);
             var renderer = new GraphicsRenderer(new FixedModuleSize(5,
             QuietZoneModules.Two), Brushes.Black, Brushes.White);
-            using (var stream = new FileStream(Application.StartupPath +
+            using (var stream = new FileStream(Application.UserAppDataPath +
             @"\qrcode.png", FileMode.Create))
                 renderer.WriteToStream(qrCode.Matrix, ImageFormat.Png, stream);
             reportViewer1.LocalReport.EnableExternalImages = true;
 
-            string ruta = Application.StartupPath + @"\qrcode.png";
+            string ruta = Application.UserAppDataPath + @"\qrcode.png";
             string ruta1 = @"C:\Users\Francisco\source\repos\Teatro\Imagenes\reyleon.jpg";
             string ruta2 = @"C:\Users\Francisco\source\repos\Teatro\Imagenes\berto.jpg";
             string ruta3 = @"C:\Users\Francisco\source\repos\Teatro\Imagenes\humor.jpg";

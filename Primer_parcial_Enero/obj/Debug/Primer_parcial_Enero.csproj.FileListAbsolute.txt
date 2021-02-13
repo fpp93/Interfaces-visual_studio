@@ -1,0 +1,13 @@
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\bin\Debug\Primer_parcial_Enero.exe.config
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\bin\Debug\Primer_parcial_Enero.exe
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\bin\Debug\Primer_parcial_Enero.pdb
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.Alta_cliente_form.resources
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.Formulario1.resources
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.Properties.Resources.resources
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.exe
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.pdb
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.Alquilar_form.resources
+C:\Users\Francisco\source\repos\Primer_parcial_Enero\obj\Debug\Primer_parcial_Enero.Devolver_form.resources

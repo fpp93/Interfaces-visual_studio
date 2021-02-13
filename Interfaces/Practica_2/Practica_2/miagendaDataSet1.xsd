@@ -2,14 +2,16 @@
 <xs:schema id="miagendaDataSet1" targetNamespace="http://tempuri.org/miagendaDataSet1.xsd" xmlns:mstns="http://tempuri.org/miagendaDataSet1.xsd" xmlns="http://tempuri.org/miagendaDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
   <xs:annotation>
     <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
-      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="2" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
         <Connections>
           <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="miagendaConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="miagendaConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Practica_2.Properties.Settings.GlobalReference.Default.miagendaConnectionString" Provider="MySql.Data.MySqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="practica2_agendaConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="practica2_agendaConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Practica_2.Properties.Settings.GlobalReference.Default.practica2_agendaConnectionString" Provider="MySql.Data.MySqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="practica2_agendaConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="practica2_agendaConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Practica_2.Properties.Settings.GlobalReference.Default.practica2_agendaConnectionString1" Provider="MySql.Data.MySqlClient" />
         </Connections>
         <Tables>
           <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="agendaTableAdapter" GeneratorDataComponentClassName="agendaTableAdapter" Name="agenda" UserDataComponentName="agendaTableAdapter">
             <MainSource>
-              <DbSource ConnectionRef="miagendaConnectionString (Settings)" DbObjectName="miagenda.agenda" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+              <DbSource ConnectionRef="practica2_agendaConnectionString (Settings)" DbObjectName="practica2_agenda.agenda" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
                 <DeleteCommand>
                   <DbCommand CommandType="Text" ModifiedByUser="false">
                     <CommandText>DELETE FROM `agenda` WHERE ((`Id` = @p1) AND (`Nombre` = @p2) AND (`Año` = @p3))</CommandText>
@@ -60,7 +62,7 @@
           </TableAdapter>
           <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tareaTableAdapter" GeneratorDataComponentClassName="tareaTableAdapter" Name="tarea" UserDataComponentName="tareaTableAdapter">
             <MainSource>
-              <DbSource ConnectionRef="miagendaConnectionString (Settings)" DbObjectName="miagenda.tarea" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+              <DbSource ConnectionRef="practica2_agendaConnectionString (Settings)" DbObjectName="practica2_agenda.tarea" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
                 <DeleteCommand>
                   <DbCommand CommandType="Text" ModifiedByUser="false">
                     <CommandText>DELETE FROM `tarea` WHERE ((`Id_agenda` = @p1) AND (`Dia` = @p2) AND (`Mes` = @p3) AND (`Hora` = @p4) AND (`Descripción` = @p5) AND (`Lugar` = @p6))</CommandText>
@@ -123,22 +125,22 @@
               <Mapping SourceColumn="Lugar" DataSetColumn="Lugar" />
             </Mappings>
             <Sources>
-              <DbSource ConnectionRef="miagendaConnectionString (Settings)" DbObjectName="miagenda.tarea" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Filtrarpordia" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy1" GeneratorSourceName="Filtrarpordia" GetMethodModifier="Public" GetMethodName="GetDataBy1" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy1" UserSourceName="Filtrarpordia">
+              <DbSource ConnectionRef="practica2_agendaConnectionString (Settings)" DbObjectName="practica2_agenda.tarea" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Filtrarpordia" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy1" GeneratorSourceName="Filtrarpordia" GetMethodModifier="Public" GetMethodName="GetDataBy1" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy1" UserSourceName="Filtrarpordia">
                 <SelectCommand>
                   <DbCommand CommandType="Text" ModifiedByUser="true">
-                    <CommandText>SELECT `Id_agenda`, `Dia`, `Mes`, `Hora`, `Descripción`, `Lugar` FROM `tarea` where `Dia` = @dia</CommandText>
+                    <CommandText>SELECT `Id_agenda`, `Dia`, `Mes`, `Horas`, `Descripción`, `Lugar` FROM `tarea` where `Dia` = @dia</CommandText>
                     <Parameters>
-                      <Parameter AllowDbNull="false" AutogeneratedName="dia" ColumnName="Dia" DataSourceName="miagenda.tarea" DataTypeServer="int(10)" DbType="Int32" Direction="Input" ParameterName="@dia" Precision="0" ProviderType="Int32" Scale="0" Size="0" SourceColumn="Dia" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="dia" ColumnName="Dia" DataSourceName="practica2_agenda.tarea" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@dia" Precision="0" ProviderType="Int32" Scale="0" Size="0" SourceColumn="Dia" SourceColumnNullMapping="false" SourceVersion="Current" />
                     </Parameters>
                   </DbCommand>
                 </SelectCommand>
               </DbSource>
-              <DbSource ConnectionRef="miagendaConnectionString (Settings)" DbObjectName="miagenda.tarea" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="seleccionatarea" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy" GeneratorSourceName="seleccionatarea" GetMethodModifier="Public" GetMethodName="GetDataBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="seleccionatarea">
+              <DbSource ConnectionRef="practica2_agendaConnectionString (Settings)" DbObjectName="practica2_agenda.tarea" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="seleccionatarea" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy" GeneratorSourceName="seleccionatarea" GetMethodModifier="Public" GetMethodName="GetDataBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="seleccionatarea">
                 <SelectCommand>
                   <DbCommand CommandType="Text" ModifiedByUser="true">
-                    <CommandText>SELECT `Id_agenda`, `Dia`, `Mes`, `Hora`, `Descripción`, `Lugar` FROM `tarea` where id_agenda = @idagenda</CommandText>
+                    <CommandText>SELECT `Id_agenda`, `Dia`, `Mes`, `Horas`, `Descripción`, `Lugar` FROM `tarea` where id_agenda = @idagenda</CommandText>
                     <Parameters>
-                      <Parameter AllowDbNull="false" AutogeneratedName="idagenda" ColumnName="Id_agenda" DataSourceName="miagenda.tarea" DataTypeServer="int(10)" DbType="Int32" Direction="Input" ParameterName="@idagenda" Precision="0" ProviderType="Int32" Scale="0" Size="0" SourceColumn="Id_agenda" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="idagenda" ColumnName="id_agenda" DataSourceName="practica2_agenda.tarea" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@idagenda" Precision="0" ProviderType="Int32" Scale="0" Size="0" SourceColumn="id_agenda" SourceColumnNullMapping="false" SourceVersion="Current" />
                     </Parameters>
                   </DbCommand>
                 </SelectCommand>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2020\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="EmpaquetadoTeatro" ProductVersion="1.00.0000" Built="2-5-2021 12-35-23" Config="Default Configuration" Media="Debug" Uncompressed="0.00 MB">
+  <Features>
+    <Feature Title="##IDS_FEATURE_DISPLAY_NAME1##">EmpaquetadoTeatro_Files</Feature>
+  </Features>
+  <Components>
+    <Component x64="32">AllOtherFiles</Component>
+    <Component x64="32" KeyPath="gma.qrcodenet.encoding.dll">Gma.QrCodeNet.Encoding.dll</Component>
+    <Component x64="32" KeyPath="microsoft.reportviewer.commo">Microsoft.ReportViewer.Common.dll</Component>
+    <Component x64="32" KeyPath="microsoft.reportviewer.datav">Microsoft.ReportViewer.DataVisualization.dll</Component>
+    <Component x64="32" KeyPath="microsoft.reportviewer.desig">Microsoft.ReportViewer.Design.dll</Component>
+    <Component x64="32" KeyPath="microsoft.reportviewer.proce">Microsoft.ReportViewer.ProcessingObjectModel.dll</Component>
+    <Component x64="32" KeyPath="microsoft.reportviewer.winfo">Microsoft.ReportViewer.WinForms.dll</Component>
+    <Component x64="32">PruebasUnitarias.Resultado_principal</Component>
+    <Component x64="32" KeyPath="teatro.resultado_principal">Teatro.Resultado_principal</Component>
+  </Components>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]FESAC\EmpaquetadoTeatro" Component="Gma.QrCodeNet.Encoding.dll" Modified="17/03/2013 13:26:30" Size="107008" Version="0.4.1.2">Gma.QrCodeNet.Encoding.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]FESAC\EmpaquetadoTeatro" Component="Microsoft.ReportViewer.Common.dll" Modified="25/02/2020 23:35:02" Size="9037440" Version="15.0.1404.0">Microsoft.ReportViewer.Common.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]FESAC\EmpaquetadoTeatro" Component="Microsoft.ReportViewer.DataVisualization.dll" Modified="25/02/2020 23:35:04" Size="5100888" Version="15.0.1404.0">Microsoft.ReportViewer.DataVisualization.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]FESAC\EmpaquetadoTeatro" Component="Microsoft.ReportViewer.Design.dll" Modified="25/02/2020 23:35:02" Size="90248" Version="15.0.1404.0">Microsoft.ReportViewer.Design.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]FESAC\EmpaquetadoTeatro" Component="Microsoft.ReportViewer.ProcessingObjectModel.dll" Modified="25/02/2020 23:35:04" Size="104064" Version="15.0.1404.0">Microsoft.ReportViewer.ProcessingObjectModel.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]FESAC\EmpaquetadoTeatro" Component="Microsoft.ReportViewer.WinForms.dll" Modified="25/02/2020 23:35:02" Size="603776" Version="15.0.1404.0">Microsoft.ReportViewer.WinForms.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]FESAC\EmpaquetadoTeatro" Component="Teatro.Resultado_principal" Modified="05/02/2021 12:35:13" Size="441344" Version="1.0.0.0">Teatro.exe</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]FESAC\EmpaquetadoTeatro" Component="Teatro.Resultado_principal" Modified="27/10/2020 9:09:48" Size="189" Version="">Teatro.exe.config</File>
+  </Files>
+</BuildReport>

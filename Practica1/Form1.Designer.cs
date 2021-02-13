@@ -34,6 +34,7 @@
             this.Consultar = new System.Windows.Forms.Button();
             this.btn_Salir = new System.Windows.Forms.Button();
             this.personaBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             ((System.ComponentModel.ISupportInitialize)(this.personaBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
@@ -84,6 +85,10 @@
             // 
             this.personaBindingSource.DataSource = typeof(Practica1.Persona);
             // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "C:\\Users\\Francisco\\Documents\\HelpNDoc\\Output\\chm\\Practica10_ayuda.chm";
+            // 
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -99,6 +104,7 @@
             this.Font = new System.Drawing.Font("Nirmala UI", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.helpProvider1.SetShowHelp(this, true);
             this.Text = "Formulario ";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.personaBindingSource)).EndInit();
@@ -112,6 +118,7 @@
         private System.Windows.Forms.Button Consultar;
         private System.Windows.Forms.Button btn_Salir;
         private System.Windows.Forms.BindingSource personaBindingSource;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }
 

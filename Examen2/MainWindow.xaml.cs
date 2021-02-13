@@ -8,6 +8,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
+using System.Windows.Forms;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
@@ -91,6 +92,18 @@ namespace Examen2
             }
             Ventana3 v3 = new Ventana3(temporal);
             v3.Show();
+        }
+       
+
+        private void Window_KeyDown_1(object sender, System.Windows.Input.KeyEventArgs e)
+        {
+            if (e.Key == Key.F1)
+
+            {
+
+                Help.ShowHelp(null, @"C:\Users\Francisco\Documents\HelpNDoc\Output\chm\Practica10_ayuda.chm");
+
+            }
         }
     }
 }

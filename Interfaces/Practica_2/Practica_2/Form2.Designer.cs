@@ -88,7 +88,7 @@
             this.agendaBindingNavigator.MovePreviousItem = this.bindingNavigatorMovePreviousItem;
             this.agendaBindingNavigator.Name = "agendaBindingNavigator";
             this.agendaBindingNavigator.PositionItem = this.bindingNavigatorPositionItem;
-            this.agendaBindingNavigator.Size = new System.Drawing.Size(800, 33);
+            this.agendaBindingNavigator.Size = new System.Drawing.Size(800, 38);
             this.agendaBindingNavigator.TabIndex = 0;
             this.agendaBindingNavigator.Text = "bindingNavigator1";
             // 
@@ -98,7 +98,7 @@
             this.bindingNavigatorAddNewItem.Image = ((System.Drawing.Image)(resources.GetObject("bindingNavigatorAddNewItem.Image")));
             this.bindingNavigatorAddNewItem.Name = "bindingNavigatorAddNewItem";
             this.bindingNavigatorAddNewItem.RightToLeftAutoMirrorImage = true;
-            this.bindingNavigatorAddNewItem.Size = new System.Drawing.Size(34, 28);
+            this.bindingNavigatorAddNewItem.Size = new System.Drawing.Size(34, 33);
             this.bindingNavigatorAddNewItem.Text = "Agregar nuevo";
             // 
             // agendaBindingSource

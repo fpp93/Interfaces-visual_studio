@@ -77,6 +77,7 @@ namespace Practica9
         }
         [TestMethod]
         public void TestAdoptar()
+            //prueba de integracion
         {
             Cliente c = new Cliente("Pepe", "12345678A","Parra");
             Mascota m = new Mascota("Tobi", "12/12/2013");
@@ -121,9 +122,9 @@ namespace Practica9
         {
             Veterinario c = new Veterinario("Pepe");
             var mockMascota = new Mock<IMascota>();
-            mockMascota.Setup(x => x.SeRelaja("juguete")).Returns(true);
+            mockMascota.Setup(x => x.SeRelaja("juguete")).Returns(false);
 
-            Assert.IsTrue(c.Premiar((IMascota)mockMascota.Object, "juguete"));
+            Assert.IsFalse(c.Premiar((IMascota)mockMascota.Object, "juguete"));
         }
         [TestMethod]
         public void TestPremiar_veterinario_2()
@@ -137,12 +138,12 @@ namespace Practica9
 
         [TestMethod]
         public void TestPremiar_cliente()
+            //prueba de integracion
         {
             Cliente c = new Cliente("Pepe","1111111A","Parra");
             Mascota m = new Mascota("Tobi", "12/12/2013");
             String premio = "pelota";
             c.Premiar(m,premio);
-            Assert.IsTrue(true);
         }
 
 

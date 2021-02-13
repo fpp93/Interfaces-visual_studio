@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Teatro"
         mc:Ignorable="d"
-        Title="Entradas.FESAC" Height="515.882" Width="917.647" Loaded="Window_Loaded" Icon="theatermasks_teatr_3602.png">
+        Title="Entradas.FESAC" Height="515.882" Width="917.647" Loaded="Window_Loaded" Icon="theatermasks_teatr_3602.png" KeyDown="Window_KeyDown">
     <Canvas Background="#FF2BD7EF">
         <DockPanel Height="487" LastChildFill="False" VerticalAlignment="Top" Canvas.Left="10" Width="891">
             <DockPanel.Background>

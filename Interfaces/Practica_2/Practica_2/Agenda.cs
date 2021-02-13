@@ -30,9 +30,6 @@ namespace Practica_2
             
         }
 
-        public String toString()
-        {
-            return codigo+":"+nombre;
-        }
+       
     }
 }

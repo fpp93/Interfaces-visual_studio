@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Examen2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="431.176" Width="551.765" Loaded="Window_Loaded">
+        Title="MainWindow" Height="431.176" Width="551.765" Loaded="Window_Loaded" KeyDown="Window_KeyDown_1">
     <Grid>
         <ListBox x:Name="lst_main" HorizontalAlignment="Left" Height="267" Margin="28,81,0,0" VerticalAlignment="Top" Width="360" SelectionChanged="lst_main_SelectionChanged"/>
         <Button x:Name="btn_siguiente" Content="Bajas" HorizontalAlignment="Left" Margin="419,125,0,0" VerticalAlignment="Top" Width="89" Height="24" Click="btn_siguiente_Click"/>

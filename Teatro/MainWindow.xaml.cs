@@ -40,6 +40,7 @@ namespace Teatro
             sala3 = new Sala("El sentido del Humor", "15/01/2020", "18:30",10,5);
             sala4 = new Sala("Mcbeth", "20/10/2020", "21:00",10,10);
             sala5 = new Sala("Romeo y Julieta", "30/10/2020", "00:30",2,10);
+            
         }
         //dependiendo de que boton pulse, se cargará un evento u otro y las paso a la siguiente ventana
         private void Evento1_Click(object sender, RoutedEventArgs e)

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Examen_practica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Examen_practica"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="btn_alta" Content="Alta Paquete" HorizontalAlignment="Left" Margin="356,267,0,0" VerticalAlignment="Top" Width="135" Height="51" Click="btn_alta_Click"/>
+        <ListBox x:Name="lst_paquetes" HorizontalAlignment="Left" Height="180" Margin="38,55,0,0" VerticalAlignment="Top" Width="293"/>
+        <ComboBox x:Name="combo_camiones" HorizontalAlignment="Left" Margin="550,55,0,0" VerticalAlignment="Top" Width="179" Height="58" SelectionChanged="combo_camiones_SelectionChanged"/>
+
+    </Grid>
+</Window>

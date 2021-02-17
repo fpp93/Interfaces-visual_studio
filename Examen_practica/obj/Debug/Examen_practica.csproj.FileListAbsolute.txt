@@ -1,0 +1,17 @@
+C:\Users\Francisco\source\repos\Examen_practica\bin\Debug\Examen_practica.exe.config
+C:\Users\Francisco\source\repos\Examen_practica\bin\Debug\Examen_practica.exe
+C:\Users\Francisco\source\repos\Examen_practica\bin\Debug\Examen_practica.pdb
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\Examen_practica.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\MainWindow.g.cs
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\App.g.cs
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\Examen_practica_MarkupCompile.cache
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\Examen_practica_MarkupCompile.lref
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\MainWindow.baml
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\Examen_practica.g.resources
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\Examen_practica.Properties.Resources.resources
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\Examen_practica.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\Examen_practica.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\Examen_practica.exe
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\Examen_practica.pdb
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\FormAlta.g.cs
+C:\Users\Francisco\source\repos\Examen_practica\obj\Debug\FormAlta.baml

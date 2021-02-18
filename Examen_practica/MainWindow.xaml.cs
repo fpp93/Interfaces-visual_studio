@@ -8,6 +8,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
+using System.Windows.Forms;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
@@ -82,6 +83,17 @@ namespace Examen_practica
            
 
 
+
+            }
+        }
+
+        private void Window_KeyDown(object sender, System.Windows.Input.KeyEventArgs e)
+        {
+            if (e.Key == Key.F1)
+
+            {
+
+                Help.ShowHelp(null, @"C:\Users\Francisco\Documents\HelpNDoc\Output\chm\Practica10_ayuda.chm");
 
             }
         }
